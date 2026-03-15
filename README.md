@@ -2,6 +2,16 @@
 
 ### Atividade 1 da capacitação TIC-HUB Irede
 
+### Desafio
+
+O desafio desta atividade  é expandir a lógica de um sistema de e-commerce, aplicando os conceitos de POO (Programação Orientada a Objetos) e Tipagem Avançada para garantir que nossa aplicação seja robusta, escalável e segura.
+
+---
+
+### Tecnologias utilizadas
+- nodeJs
+- Type Script
+- POO
 ---
 - A estrutura do projeto está dividida da seguinte maneira:
 ```
@@ -18,22 +28,23 @@ src
 └ index.ts
 
 ```
-Para executar este projeto seguir os seguintes passos:
+### Para executar este projeto seguir os seguintes passos:
 ---
-```
-Clonar este repositório
 
+- Clonar este repositório
+```
+https://github.com/IsaiasSaraiva/TypeScript-POO-E-commerce.git
 ```
 
-Em seguida instalar as dependências
+- Em seguida instalar as dependências
 
 ```
 npm install
 ```
 
-Executar o comando:
+- Executar o comando:
 
 ```
 npm run dev
 ```
-``
+
